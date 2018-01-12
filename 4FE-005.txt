@@ -1,0 +1,8 @@
+==3FE==
+sourcedata = 2VV-005 // 0RD-003
+targetdata = 4FE-005.csv // 2VV-005
+script = facedetection.py // 1VV-002.py
+operations = detect number of faces of each image // resize images to 500x500 pixel AND greyscale transformation using Pillow
+size = 500 images
+comment = 5 genres, 100 example files each, randomly chosen
+timestamp = 2018-01-12_15-21-00
